@@ -29,7 +29,7 @@ class DicePage extends StatelessWidget {
                   ;
                 },
                 child: Image.asset(
-                  "images/dice$lDiceNumber.png",
+                  'images/dice$lDiceNumber.png',
                 ),
               ),
             ),
@@ -39,7 +39,7 @@ class DicePage extends StatelessWidget {
                   ;
                 },
                 child: Image.asset(
-                  "images/dice1.png",
+                  'images/dice1.png',
                 ),
               ),
             ),
